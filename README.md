@@ -9,11 +9,13 @@
    - Store all records in a List of Map
    - Create a grading system that gives each student a letter grade (A+ grade to F grade) based on their score.
    - Ensure student IDs are unique.
-   Display the following outputs::
+   
+   Display the following outputs:
    - A sorted list of students by score (descending order).
    - The total number of students entered.
    - The highest and lowest scores among all students.
-   - 
+
+     
 ## Overview
 This is a Dart console-based program that allows you to manage student records efficiently. You can add students, ensure unique student IDs, calculate grades, and display sorted records along with summary statistics.
 
