@@ -7,7 +7,7 @@
    Requirements:
    - The program should accept student information (name, ID, and score) from the user input.
    - Store all records in a List of Map
-   - Create a grading system that gives each student a letter grade (A+ grade to F grade) based on their score.
+   - Create a **grading system** that gives each student a letter grade (A+ grade to F grade) based on their score.
    - Ensure student IDs are unique.
    
    Display the following outputs:
